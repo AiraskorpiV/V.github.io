@@ -1,0 +1,12 @@
+body {margin: auto; max-width: 700px;}
+img {width: 400px; max-width: 100%;}   
+div {background-color: rgb(227, 172, 227);}
+.moi {color: rgb(210, 122, 194); }
+.jee {color: rgb(227, 165, 230);}
+.lola {color: rgb(210, 147, 211); }
+.cilla {color: rgb(192, 107, 184); }
+.loison { float: right;}
+.loison {width: 200px; max-width: 100%;}
+.muuta {text-align: center; }
+.muuta {border: 1px solid green; }
+ .moi {font-family: 'Times New Roman', Times, serif; }
